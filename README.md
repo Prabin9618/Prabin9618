@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Prabin Dash
-- 👀 I’m interested in exploring Data Science and Machine Learning fields
+- 👀 I’m interested in exploring Data Science and Machine Learning fields and I am preparing to become a Full Stack Data Scientist
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me - Send a mail to prabindash135@gmail.com and we can catch up sometime.
 
